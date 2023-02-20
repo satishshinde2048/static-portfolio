@@ -1,0 +1,12 @@
+#header{
+    background-color: rgba(195, 46, 46,0.9) !important;
+}
+h5,h1,h4{
+    color: brown !important;
+}
+/* .btn{
+    background-color: brown !important;
+} */
+#footer{
+    background-color:  rgba(195, 46, 46,0.9) !important;
+}
